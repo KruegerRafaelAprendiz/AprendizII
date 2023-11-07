@@ -1,0 +1,38 @@
+body{
+    background-color: black;
+    color:chartreuse;
+    font-family: Georgia, 'Times New Roman', Times, serif
+    padding: 24px;
+}
+
+.title{
+    font-size: 25px;
+    color:chocolate
+}
+.list-item {
+
+    margin-bottom: 24px;
+    font-size: 24px;
+}
+
+input {
+    height: 24px;
+    background-color: transparent;
+    color: white;
+    border-color:white;
+    border-radius: 4px;
+    font-size: 16px;
+    padding: 3px;
+    font-family: monospace;
+}
+
+.add-task-button {
+    font-size:16px;
+    padding: 14px;
+    background-color: blue;
+    border-width: 0px;
+    border-radius:4px;
+    color:white;
+    font-weight: bold;
+    font-family: monospace;
+}
