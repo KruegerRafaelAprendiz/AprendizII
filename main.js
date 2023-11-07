@@ -13,3 +13,4 @@ function addNewtask() {
     const textElement = document.createTextNode(Text);
     listItem.appendChild(textElement);
     list.appendChild(listItem);
+}
